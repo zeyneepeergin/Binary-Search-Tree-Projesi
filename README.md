@@ -1,4 +1,6 @@
 # Binary-Search-Tree-Projesi
+https://app.patika.dev/zeyneepeergin
+
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 # ÇÖZÜM
 [7,5,1,8,3,6,0,9,4,2] dizisi soldan okunmaya başlanır. Dizinin en başındaki sayı root olarak seçilir. Root'dan büyük sayılar sağına, root'dan küçük sayılar soluna yazılır.
